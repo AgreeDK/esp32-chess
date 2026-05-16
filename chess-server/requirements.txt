@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-chess
+stockfish
+sqlalchemy
+websockets
+aiofiles
